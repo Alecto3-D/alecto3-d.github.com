@@ -73,6 +73,7 @@ h3 {
 #mitems li {
 	list-style-type: none;
 	display: block;
+        float: left;
 	margin: 0px 40px 0px 33px;
 }
 
