@@ -44,7 +44,7 @@ h3 {
 }
 
 #menu {
-	width: 1200px;
+	width: 90%;
 	height: 25px;
 	background-color: #640000;
 	position:relative;
@@ -67,6 +67,7 @@ h3 {
 #mitems ul {
 	margin: 0;
 	padding: 0;
+        text-align: center;
 }
 
 #mitems li {
